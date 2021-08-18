@@ -81,8 +81,8 @@ class Manager:
             
 
             def loading():
-                for _ in tqdm(range(10), desc="carregando...", ascii=False, ncols=75):
-                    time.sleep(3)
+                for _ in tqdm(range(100), desc="carregando...", ascii=False, ncols=75):
+                    time.sleep(1)
                 print("Carregamento completo!")
                 time.sleep(0.50)
             if __name__ == "__main__":
