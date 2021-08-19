@@ -3,11 +3,11 @@
 ### this is an example mySQL connection to Python
 <hr>
 
-#### how to use?
+### how to use?
 - first run the main.py file
 - then wait until the connection is downloaded
 
-#### basic features
+### basic features
 - Add:
     add to your credentials
 -  Remove:
