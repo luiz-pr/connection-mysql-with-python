@@ -6,7 +6,7 @@
 #### how to use?
 - first run the main.py file
 - then wait until the connection is downloaded
-<hr>
+
 #### basic features
 - Add:
     add to your credentials
