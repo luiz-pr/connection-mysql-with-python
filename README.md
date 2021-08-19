@@ -8,13 +8,13 @@
 - then wait until the connection is downloaded
 <hr>
 #### basic features
-1. Add():
+- Add():
     add to your credentials
-2.  Remove():
+-  Remove():
     remove to your credentials
-3. Update():
+- Update():
     Update the database
-4. List():
+- List():
     list all credentials added to the database
-5. Terminate():
+- Terminate():
     shut down the database
